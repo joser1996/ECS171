@@ -102,3 +102,12 @@ Modified Solver to handle all seven features.
 |-| 8.79 | Testing Set|
 
 
+### Problem 6
+Performed Logistic Regression by fitting model to training data and then used
+model to predict class for both training and testing set.
+
+|-|-|
+|:---:|:---:|
+|Training Data Score| % 75.0 |
+|Testing Data Score| % 80.0
+
