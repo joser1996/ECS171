@@ -12,3 +12,9 @@ Each bin contains 98 samples each. Cut off indicies were...
 * Med: 195 (mpg < 23)
 * High: 293 (mpg < 29)
 * Very High: 391 (mpg > 30)
+
+### Problem 2
+
+Scatter Plot Matrix of features
+
+[Scatter Plot Matrix]: https://github.com/joser1996/ECS171/blob/master/ScatterPlotMat.PNG
