@@ -33,3 +33,17 @@ Implemented OLS solver. See code.
 | Features | MSE 0th | MSE 1st | MSE 2nd | MSE 3rd | Data Set |
 |:--------:|:-------:|:-------:|:-------:|:-------:|:--------:|
 |Cylinder | 56.15 | 21.22 | 20.93 | 20.46 | Training Set|
+|-| 73.18 | 32.29 | 32.50 | 26.33 | Testing Set |
+|Displacement| 56.52 | 19.28 | 17.12 | 17.06 | Training Set|
+|-| 73.18 | 27.67 | 24.16 | 24.13 | Testing Set|
+|Horse Power| 56.51 | 23.19 | 20.52 | 20.48 | Training Set|
+|-|73.18 | 26.64 | 15.30 | 15.84 | Testing Set|
+|Weight | 56.52 | 17.39 | 16.39 | 16.38 | Training Set|
+|-| 73.18 | 22.54 | 20.21 | 20.30 | Testing Set|
+|Acceleration| 56.52 | 50.38 | 49.11 | 49.01 | Training Set|
+|-| 73.18 | 50.38 | 50.26 | 50.11 | Testing Set|
+|Model Year| 56.52 | 38.66 | 36.62 | 36.50 | Training Set|
+|-| 73.18 | 45.44 | 44.22 |44.36 | Testing Set|
+|Origin| 56.52 | 39.11 | 38.79 | 1067.01 |Training Set|
+|-| 73.18 | 48.05 | 46.43 | 1447.08 | Testing Set|
+
