@@ -26,3 +26,10 @@ easily imagine multiple lines being drawn through the plot in order to divide
 all four of the classes.
 
 ### Problem 3
+Implemented OLS solver. See code.
+
+### Problem 4
+
+| Features | MSE 0th | MSE 1st | MSE 2nd | MSE 3rd | Data Set |
+|:--------:|:-------:|:-------:|:-------:|:-------:|:--------:|
+|Cylinder | 56.15 | 21.22 | 20.93 | 20.46 | Training Set|
