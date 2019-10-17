@@ -46,4 +46,6 @@ Implemented OLS solver. See code.
 |-| 73.18 | 45.44 | 44.22 |44.36 | Testing Set|
 |Origin| 56.52 | 39.11 | 38.79 | 1067.01 |Training Set|
 |-| 73.18 | 48.05 | 46.43 | 1447.08 | Testing Set|
+*MSE Table*
+
 
