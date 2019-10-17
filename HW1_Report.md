@@ -48,23 +48,30 @@ Implemented OLS solver. See code.
 |-| 73.18 | 48.05 | 46.43 | 1447.08 | Testing Set|
 *MSE Table*
 
-**Cylinder**
+**Cylinder** 
+
 ![Cylinder Plot](https://github.com/joser1996/ECS171/blob/master/cylinders_plot.PNG)
 
-**Displacement**
+**Displacement** 
+
 ![Displacement Plot](https://github.com/joser1996/ECS171/blob/master/displacement_plot.PNG)
 
-**Horse Power**
+**Horse Power** 
+
 ![Horse Power Plot](https://github.com/joser1996/ECS171/blob/master/HP_plot.PNG)
 
-**Weight**
+**Weight** 
+
 ![Weight Plot](https://github.com/joser1996/ECS171/blob/master/weight_plot.PNG)
 
-**Acceleration**
+**Acceleration** 
+
 ![Acceleration Plot](https://github.com/joser1996/ECS171/blob/master/acc_plot.PNG)
 
-**Model Year**
+**Model Year** 
+
 ![Model Year Plot](https://github.com/joser1996/ECS171/blob/master/year_plot.PNG)
 
-**Origin**
+**Origin** 
+
 ![Origin Plot](https://github.com/joser1996/ECS171/blob/master/origin_plot.PNG)
