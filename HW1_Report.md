@@ -15,6 +15,14 @@ Each bin contains 98 samples each. Cut off indicies were...
 
 ### Problem 2
 
-Scatter Plot Matrix of features
+**Scatter Plot Matrix of features**
 
 ![Scatter Plot Matrix](https://github.com/joser1996/ECS171/blob/master/ScatterPlotMat.PNG "Scatter Matrix")
+
+In this particular case I would say that the *weight* and *model_year* pair
+give me the most information. In this plot I can clearly see each of the
+four classes(Low, Med, High, and Very High) clustered together. I can
+easily imagine multiple lines being drawn through the plot in order to divide
+all four of the classes.
+
+### Problem 3
