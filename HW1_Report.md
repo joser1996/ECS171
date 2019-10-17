@@ -75,3 +75,30 @@ Implemented OLS solver. See code.
 **Origin** 
 
 ![Origin Plot](https://github.com/joser1996/ECS171/blob/master/origin_plot.PNG)
+
+Overall the second order  polynomial tends to perform better accross most
+features. This is measured by looking at the MSE(Mean Squared Error) in the
+table and noting that it tends to have the lower value. Aside from looking at
+the data one can look at the plots and see that the 2nd order tends to fit 
+the data better in most, but not all. 
+
+I would say that the most informative feature in this case is Horse Power.
+The first reason is that the MSE values for the testing set are lower than
+the rest. Second looking at the plot I can see that the curves, especially
+the 2nd order one, fit the data points very nicely.
+
+### Problem 5
+
+Modified Solver to handle all seven features.
+
+
+| - | MSE |Data Set|
+|:--------:|:-------:|:-------:|
+|0th order poly.| 56.52 | Training Set|
+|- | 73.18 | Testing Set|Testing Set|
+|1st order poly.| 10.00 |Training Set|
+|-| 13.94 | Testing Set|
+|2nd order poly.| 7.16 | Training Set|
+|-| 8.79 | Testing Set|
+
+
