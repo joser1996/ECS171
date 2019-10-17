@@ -102,7 +102,7 @@ Modified Solver to handle all seven features.
 |-| 8.79 | Testing Set|
 
 
-### Problem 6
+### Problem 6 & 7
 Performed Logistic Regression by fitting model to training data and then used
 model to predict class for both training and testing set.
 
@@ -110,4 +110,38 @@ model to predict class for both training and testing set.
 |:---:|:---:|
 |Training Data Score| % 75.0 |
 |Testing Data Score| % 80.0
+
+After min-max normalization was applied to both the training and testing data
+set(only features not mpg) Logistic Regression was applied again to all of the
+features for both trainig and testing data sets.
+
+|-|-|
+|:---:|:---:|
+|Training Data Score| % 73.29 |
+|Testing Data Score| % 74.0|
+
+After normalizing the data the score for the training set didn't change
+significantly, howerver the score for my testing data dropped by approximately
+6%.
+
+### Problem 8
+
+For my second order polynomial model I decided to go with the Horse Power
+feature, since it had the lowest MSE and the model fit the the plotted data
+better than the other models.
+
+However despite that both the 1st and 2nd order multivariate still had lower
+MSEs, 13.94 and 8.79, respectivly. The thresholds, I previously defined in 
+Problem 1, say MPG Type 'High' is between 23 and 29 MPG and sure enough our
+1st and 2nd order fall within this range. Our Logistic Regression model also
+classifies it as MPG Type of 'High' which is why I predict that a car with the
+given features, from problem 8, would fall into the 'High' class for MPG Type.
+
+|Model| Prediction for MPG|
+|:---:|:---:|
+|2nd Order for Horse Power| 14.90|
+|1st order MultiVariate | 26.21 |
+|2nd order MultiVariate | 24.60 |
+|Logistic Regression| 'High' |
+
 
