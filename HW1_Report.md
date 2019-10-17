@@ -17,4 +17,4 @@ Each bin contains 98 samples each. Cut off indicies were...
 
 Scatter Plot Matrix of features
 
-[Scatter Plot Matrix]: https://github.com/joser1996/ECS171/blob/master/ScatterPlotMat.PNG
+[Scatter Plot Matrix]: https://github.com/joser1996/ECS171/blob/master/ScatterPlotMat.PNG "Scatter Matrix"
