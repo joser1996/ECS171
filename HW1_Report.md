@@ -121,7 +121,7 @@ features for both trainig and testing data sets.
 |Testing Data Score| % 74.0|
 
 After normalizing the data the score for the training set didn't change
-significantly, howerver the score for my testing data dropped by approximately
+significantly, however the score for my testing data dropped by approximately
 6%.
 
 ### Problem 8
@@ -131,7 +131,7 @@ feature, since it had the lowest MSE and the model fit the the plotted data
 better than the other models.
 
 However despite that both the 1st and 2nd order multivariate still had lower
-MSEs, 13.94 and 8.79, respectivly. The thresholds, I previously defined in 
+MSEs, 13.94 and 8.79, respectively. The thresholds, I previously defined in 
 Problem 1, say MPG Type 'High' is between 23 and 29 MPG and sure enough our
 1st and 2nd order fall within this range. Our Logistic Regression model also
 classifies it as MPG Type of 'High' which is why I predict that a car with the
